@@ -9,4 +9,5 @@ The objective of this app was to solidify what was done in the Dicee tutorial. I
 
 I made a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
+
+![8-ball-flutter-gif](https://user-images.githubusercontent.com/100425157/230798586-9160e2e9-8d46-4f4f-a179-059cdbe3119d.gif)
